@@ -16,7 +16,7 @@ from io import BytesIO
 
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-from.decorators import MessageDecorator
+from utils.decorators import MessageDecorator
 from utils.provider import APIProvider
 
 try:
