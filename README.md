@@ -56,13 +56,13 @@ Before continuing make sure following requirements are satisfied:
 - Python version greater than or equal to 3.4 is installed
 - pip is installed for Python 3
 
-Install `tbomb` package by running:
+Install `sbomb` package by running:
 
 ```shell script
 pip3 install tbomb
 ```
 
-Run TBomb by just typing:
+Run SBomb by just typing:
 ```shell script
 tbomb
 ```
@@ -85,7 +85,7 @@ pkg install git -y
 pkg install python -y 
 git clone https://github.com/Sabiralidyd786/smsbomber.git
 cd SBomb
-./TBomb.sh
+./SBomb.sh
 ```
 
 #### For iSH
