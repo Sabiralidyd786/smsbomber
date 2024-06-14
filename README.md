@@ -1,6 +1,6 @@
 align="center">
   <br>
-  <a href="https://github.com/TheSpeedX/SBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
+  <a href="https://github.com/Sabiralidyd786/smsbomber.git"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="SBomb"></a>
   <br>
   SBomb v2.1b
   <br>
@@ -83,8 +83,8 @@ To use the bomber type the following commands in Termux:
 ```shell script
 pkg install git -y 
 pkg install python -y 
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
+git clone https://github.com/Sabiralidyd786/smsbomber.git
+cd SBomb
 ./TBomb.sh
 ```
 
